@@ -6,7 +6,7 @@ Breast Cancer Classification Model is a machine learning project that classifies
 ## Key Findings
  - Malginant tumors have larger sizes and more irregular shapes (higher concativity and compactness).
 
-## Model Performance
+## SVC Model Performance
 | Metric     | Value       |
 |------------|-------------|
 | Accuracy   | 97.37%      |
